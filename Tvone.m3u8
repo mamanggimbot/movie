@@ -3,68 +3,9 @@
 // Supported I-WRAH Tools
 // Punya MasbimCH
 
-echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", SCTV'."\n";
-echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'204')."\n";
-
-echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", INDOSIAR'."\n";
-echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'205')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", O-Chanel'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'206')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", Kompas TV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'874')."\n";
 
 // echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", TV One'."\n";
 // echo jembuwt('https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/' ,'783')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", Berita Satu'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/beritasatu_ta_regular@94480/' ,'6165')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", Metro TV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'777')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", ANTV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'782')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", Trans TV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'733')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", RCTI'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'665')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", Trans7'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'734')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", MNCTV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'870')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", JAK TV'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/jaktv_ta_regular@94476/' ,'5415')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", GTV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'778')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", NET TV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/','875')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", RTV'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/rtv_ta_geo@137568/' ,'1561')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", I-News'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/inews_ta_regular@94479/' ,'5409')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", O SHop'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/oshop_ta_regular@586951/' ,'6166')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", TVRI'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/tvri_ta_regular@94480/' ,'6441')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", MYTV'."\n";
-// echo jembuwt('https://app-etslive-2.vidio.com/live/' ,'734')."\n";
-
-// echo '#EXTINF:-1 tvg-logo="" group-title="LOKAL", DAAI TV'."\n";
-// echo jembuwt('https://kmklive-lh.akamaihd.net/i/daaitv_ta_regular@198086/' ,'6482')."\n";
 
 
 function jembuwt($url, $aw){
